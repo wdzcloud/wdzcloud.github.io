@@ -2,7 +2,7 @@ body {text-align: justify;}
 
 *{margin:0;padding:0;}
 body {
-	font:16px Helvetica, Arial, sans-serif, "Hiragino Sans GB", "Microsoft YaHei";
+	font:16px Helvetica, Arial, "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
 	color:black;
 	line-height:1.4em;
 	background-color: #F8F8F8;
